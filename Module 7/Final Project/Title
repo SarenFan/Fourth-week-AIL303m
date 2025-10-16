@@ -1,1 +1,7 @@
+One of the main objectives of this course is to help you gain hands-on experience in communicating insightful and impactful findings to stakeholders. In this project you will use the tools and techniques you learned throughout this course to develop a few clustering models or dimension reduction transformations on a data set that you feel passionate about. Then, you will select the algorithm that best suits your needs, and communicate insights you found from your clustering or dimension reduction exercise.
 
+After going through some guided steps, you will have insights that either group similar observations together or explain a data set in a projection of less dimensions.
+
+Alternatively, you can revisit a Supervised Learning (regression or classification) model and confirm whether it is best to have one model for your entire data set, or to have one model for each cluster of your data set.
+
+As a main deliverable, you will submit a report that helps you focus on highlighting your analytical skills, thought process, and next steps.
